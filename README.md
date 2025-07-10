@@ -4,6 +4,7 @@ O código  trata-se de um projeto simples e educativo, criado como uma das ativi
 A proposta foi criar um jogo de Mario Kart com resultados apresentados no terminal, de acordo com as regras a seguir: 
 </br>
 🕹️ Regras & mecânicas:
+</br>
 Jogadores:
 
 O Computador deve receber dois personagens para disputar a corrida em um objeto cada
