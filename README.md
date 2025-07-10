@@ -1,8 +1,6 @@
 # Simulador de Mario Kart no Terminal 
 ## Descrição
 O código trata-se de um projeto simples com o propósito puramente de aprendizado, criado como uma das atividades do Bootcamp da plataforma de aprendizagem DIO (desenvolvimento mobile). O módulo do desafio possui o objetivo de apresentar NodeJS e testar os níveis de conhecimentos de lógica de programação do estudante.
-</br>
-O código foi desenvolvido na linguagem de programação Javascript.
 A proposta foi criar um jogo de Mario Kart com resultados apresentados no terminal, de acordo com as regras a seguir: 
 </br>
 </br>
@@ -41,7 +39,8 @@ Os pontos finais são armazenados na própria classe Player, como mostrado na ta
 </br>
 O método 'jogar' é responsável por rodar a partida e por chamar o método que verifica o vencedor. 
 Caso o jogador deseje mudar de personagem ou seus atributos, deve mudar na instância da classe player.
-
+</br>
+O código foi desenvolvido na linguagem de programação Javascript.
 
 
 
