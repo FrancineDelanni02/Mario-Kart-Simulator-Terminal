@@ -18,6 +18,6 @@ Nenhum jogador pode ter pontuação negativa (valores abaixo de 0)
 Condição de vitória:
 
 Ao final, vence quem acumulou mais pontos 
-</br>
+
 
 
